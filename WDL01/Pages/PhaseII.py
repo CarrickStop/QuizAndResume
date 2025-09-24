@@ -45,11 +45,12 @@ def multiSelectFrank():
     global correctTotal
     rightFrank = 1
     choices = st.multiselect("Regarding Mary Shelley and her novel \"Frankenstein,\" select every true choice:",
-                             ["The Monster attempts to negotiate with Dr. Frankenstein", "The Monster immiediately ensues destruction upon its conception",
+                             ["The Monster attempts to negotiate with Dr. Frankenstein", "The Monster immiediately creates destruction upon his conception",
                               "The Monster is supremely intelligent and scientifically marvelous",
                               "Mary Shelley is the only 'celebrity' amongst her immediate family members"]) #NEW
     choicesCList = ["The Monster attempts to negotiate with Dr. Frankenstein", "The Monster is supremely intelligent and scientifically marvelous"]
-    if choices == choicesCList:
+    choicesCListOther = ["The Monster is supremely intelligent and scientifically marvelous", "The Monster attempts to negotiate with Dr. Frankenstein"]
+    if choices == choicesCList or choices == choicesCListOther:
         correctTotal += 1
     else:
         rightFrank -= 1
@@ -70,7 +71,7 @@ def numCities():
     else:
         rightCities -= 1
     st.image("https://victorianweb.org/art/illustration/barnard/ttc/10.jpg", width = 200)
-    st.write("Lord Evremonde is stabbed and killde in the night")
+    st.write("Lord Evremonde is stabbed and killed in the night")
     st.write("Art credit: scanned by Philip V. Allingham in https://victorianweb.org/art/illustration/barnard/ttc/10.html")
     st.write("---")
 
@@ -103,7 +104,7 @@ def enjoyment():
 
 enjoyment()
 
-if st.button("Submit"):
+if st.button("Submit"): #NEW
         st.write(f"You scored a {correctTotal}/5.")
         st.write("Answers:")
         st.write("\"Crime and Punishment\" is actually Existentialist.")
