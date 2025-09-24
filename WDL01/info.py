@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "Images/profile.jpeg"
+profile_picture = "WDL01/Images/profile.jpeg"
 about_me = "I'm Carrick Stopford. Since my initials are CS, you could say that I'm made for what I do!"
 
 
@@ -32,9 +32,9 @@ course_data = {
     }
 experience_data = {
     "Information Technology and Repair Technician for Lifeline Repairs in Peachtree City, GA": (["- Repaired over 110 computers, tablets, and phones",
-                                                                          "- Diagnosed Countless Malfunctioning Devices", "- Accumulated a concrete understanding of computer hardware and design"],"Images/lifeline.jpeg"),
+                                                                          "- Diagnosed Countless Malfunctioning Devices", "- Accumulated a concrete understanding of computer hardware and design"],"WDL01/Images/lifeline.jpeg"),
     "PC Technician for Computech Systems in Fayetteville, GA":(["- Built PCs from scratch",
-                                                           "- Upgraded customer PCs for optimized performance"],"Images/computech.png")
+                                                           "- Upgraded customer PCs for optimized performance"],"WDL01/Images/computech.png")
 }
 
 projects_data = {
@@ -62,7 +62,7 @@ spoken_data = {
     "German": "Conversationally Acceptable"
 }
 award_data = {
-    "Whitewater High School in Fayetteville, GA": (["- Valedictorian out of a 310 class size"],"Images/speech.jpeg"),
+    "Whitewater High School in Fayetteville, GA": (["- Valedictorian out of a 310 class size"],"WDL01/Images/speech.jpeg"),
 
 }
 ec_data={
