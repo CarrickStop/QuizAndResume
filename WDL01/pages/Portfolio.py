@@ -109,3 +109,12 @@ def activities_section(award_data, ec_data):
     st.write("---")
 
 activities_section(info.award_data, info.ec_data)
+
+def exporting():
+    st.header("Download My Resume")
+    res_expander = st.expander("Stopford_Carrick_Resume")
+    res_expander.write("Let me guess: you're so blown away by this website that you want to hire me immediately? Here's a PDF of my resume:")
+    res_expander.write("https://mail.google.com/mail/u/0?ui=2&ik=535b35608f&attid=0.1&permmsgid=msg-a:r-4052101093432356241&view=att&disp=safe&realattid=f_mfylgza40&zw")    
+    st.write("---")
+
+exporting()
