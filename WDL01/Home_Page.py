@@ -8,7 +8,7 @@ st.title("Web Development Lab01")
 
 st.header("CS 1301")
 st.subheader("Carrick Stopford")
-st.sidebar.title("My sidebar")
+
 
 # Introduction
 # TODO: Write a quick description for all of your pages in this lab below, in the form:
