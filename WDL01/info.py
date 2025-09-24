@@ -39,6 +39,7 @@ experience_data = {
 
 projects_data = {
     "Painless Pokédex": "Developed a Pokémon database API via webscraping and the Requests library",
+    "Literary Classics Quiz": "Developed a short, BuzzFeed style book quiz on some of my favorite classics. Utilizes the Streamlit library."
 }
 
 programming_data = {
