@@ -80,14 +80,14 @@ numCities()
 def boolInvis():
     global correctTotal
     rightInvis = 1
-    ans = st.radio("Regarding Ralph Ellison's \"Invisible Man,\" Ellison quotes that the novel is primarily intended to be polemic and not artistic", ["True", "False"])
+    ans = st.radio("Regarding Emily Brontë's \"Wuthering Heights,\" the character of Heathcliff is known to easily let the 'past stay in the past.'", ["True", "False"])
     if ans == "False":
         correctTotal += 1
     else:
         rightInvis -= 1
-    st.image("https://static01.nyt.com/images/2021/06/14/t-magazine/Ellison-artwork-slide-FV9D/Ellison-artwork-slide-FV9D-articleLarge.jpg?quality=75&auto=webp&disable=upscale", width = 200)
-    st.write("This powerful photograph depicts the last scene of the novel where the nameless protagonist hides in sewers from a riot. In the pitch black, he feels just as visible as he does in regular society.")
-    st.write("Art credit: Gordon Park in https://www.gordonparksfoundation.org/gordon-parks/photography-archive/invisible-man-1952")
+    st.image("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/13ad574a-d285-4777-b06c-c1bfd5db9166/d9gwiow-c6727545-6945-47ea-a051-5e2408a406bd.jpg/v1/fill/w_1024,h_1882,q_75,strp/heathcliff_concept_by_muirin007_d9gwiow-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTg4MiIsInBhdGgiOiIvZi8xM2FkNTc0YS1kMjg1LTQ3NzctYjA2Yy1jMWJmZDVkYjkxNjYvZDlnd2lvdy1jNjcyNzU0NS02OTQ1LTQ3ZWEtYTA1MS01ZTI0MDhhNDA2YmQuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.DFatY-s06KrB14C4sYxh4FsDtwSKYr5xtlPMSS2GRiI", width = 200)
+    st.write("This fan made depiction is a close visualization of the character of Heathcliff based off how he's described in the book.")
+    st.write("Art credit: 'Muirin2007' on DeviantArt.com https://www.deviantart.com/muirin007/gallery")
     st.write("---") 
 
 boolInvis()
@@ -109,5 +109,4 @@ if st.button("Submit"): #NEW
         st.write("Answers:")
         st.write("\"Crime and Punishment\" is actually Existentialist by genre. It is not apart of the official philosophical/literary movement, but Raskolnikov's navigation through a feeling of moral superioty matches the societally isolated themes of Existentialism.")
         st.write("Frankenstein's Monster tried to make a deal with the doctor to create a lover, and if the doctor abided, the Monster would have been peaceful. The Monster doesn't commit crime until he is abhorred. Representative of scientific achievement, the Monster is smart and impressive yet considered grotesque. Mary Shelley's mother Mary Wollstonecraft was a renonwed feminist leader.")
-        st.write("The French Revolution definitively began in  1789")
-        st.write("While the critique is accurate in American society that black people were or are systematically ignored, Ellison explained that \"Invisible Man\" is first and foremost an artistic creation rather than a harsh critique, therefore some of the novel's sequences are dramatized and not particularly realistic societally.")
+        st.write("Heathcliff's most basic characterization is actually that he does not let anything go, whether it be love, resentment, or pride.")
