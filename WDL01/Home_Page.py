@@ -14,10 +14,10 @@ def about_me_section():
 about_me_section()
 
 st.write("""
-Welcome to our Streamlit Web Development Lab01 app! You can navigate between the pages using the sidebar to the left. The following pages are:
+It's a pleasure to introduce myself! I'm an aspiring AI researcher and current Georgia Tech CS student. Please navigate to the pages on the side if you'd like to learn more about me.
 
-1. Phase II: This page offers a fun reading quiz to test out a user's knowledege on literary classics. Reading the greats from any time period is my number one personal hobby! 
-2. Portfolio: This page is where I showcase a sort of extended resume about myself. It includes basic resume aspects like education, experience, projects, and skills.
+1. Portfolio: This page is where I showcase a sort of extended resume about myself. It includes basic resume aspects like education, experience, projects, and skills.
+2. Quiz: Having nothing to do with CS, I really enjoy classical literature as a side hobby. I would like to think it gives me an edge in communicative and writing based soft skills in the office, but here is a fun mini-quiz I put together on a few of my favorite pieces of literature.
 
 """)
 
