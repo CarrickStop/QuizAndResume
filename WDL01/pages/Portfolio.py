@@ -2,16 +2,6 @@ import streamlit as st
 import info
 import pandas as pd
 
-
-#about me
-def about_me_section():
-    st.header("About me")
-    st.image(info.profile_picture, width = 200)
-    st.write(info.about_me)
-    st.write("---")
-
-about_me_section()
-
 #sidebar links
 def links_section():
     st.sidebar.header("Links")
