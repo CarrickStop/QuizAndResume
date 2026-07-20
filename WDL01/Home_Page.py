@@ -1,4 +1,5 @@
 import streamlit as st
+import info
 
 # Title of App
 st.title("CS' Personal Website")
