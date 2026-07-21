@@ -40,7 +40,7 @@ experience_data = {
      + " document-ingestion pipeline that automatically"
      + " extracted and prioritized key engineering requirements from 20+ page government solicitation documents into structured, machine-readable datasets", "- Developed comprehensive unit"
      + " testing frameworks using Pytest and Pandas to structure proposal requirement datasets and automate LLM output evaluation against verified baselines, reducing regression defects by"
-     + " 25%.", "- Designed and integrated an intuitive, customizable Streamlit frontend with a FastAPI backend to orchestrate end-to-end LDR workflows, connecting user inputs to modular LLM"
+     + " 25%.", "- Designed and integrated an intuitive, customizable Streamlit frontend with a FastAPI backend to orchestrate end-to-end workflows, connecting user inputs to modular LLM"
      + " services for automated proposal generation."], "PortfolioQuiz/Images/orion.jpeg"),
      "Information Technology and Repair Technician for Lifeline Repairs in Peachtree City, GA" : (["- Repaired over 110 computers, tablets, and phones", "- Diagnosed Countless Malfunctioning"
      + " Devices", "- Accumulated a concrete understanding of computer hardware and design"], "PortfolioQuiz/Images/lifeline.jpeg"),
