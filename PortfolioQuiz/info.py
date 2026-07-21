@@ -46,7 +46,8 @@ experience_data = {
 }
 
 projects_data = {
-    "AIO Finances (Collaborative, Ongoing)" : "AIO Finances "
+    "AIO Finances (Collaborative, Ongoing)" : "AIO Finances puts all of your different bank statements from all different accounts and banks into one singular statement. It then dynamically categorizes"
+    + " all transactions into budgetary groups and makes intelligent budget plans for you based off your real spending habits."
 }
 
 programming_data = {
