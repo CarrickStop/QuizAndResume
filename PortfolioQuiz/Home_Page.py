@@ -1,3 +1,7 @@
+"""
+This file is the starting point of what the user sees when routed.
+"""
+
 import streamlit as st
 import info
 
@@ -20,4 +24,3 @@ It's a pleasure to introduce myself! I'm an aspiring AI researcher and current G
 2. Quiz: Having nothing to do with CS, I really enjoy classical literature as a side hobby. I would like to think it gives me an edge in communicative and writing based soft skills in the office, but here is a fun mini-quiz I put together on a few of my favorite pieces of literature.
 
 """)
-
