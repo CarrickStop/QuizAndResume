@@ -63,7 +63,7 @@ def project_section(projects_data):
 project_section(info.projects_data)
 
 #skills
-def skills_section(programming_data, spoken_data):
+def skills_section(programming_data):
     st.header("Skills")
     st.subheader("Programming Languages")
     
@@ -71,13 +71,9 @@ def skills_section(programming_data, spoken_data):
         st.write(f"{skill}{info.programming_icons.get(skill,)}")
         st.progress(percentage)
 
-    st.subheader("Spoken Languages")
-    for spoken, proficiency in spoken_data.items():
-        st.write(f"{spoken}{info.spoken_icons.get(spoken,)}: {proficiency}")
-
     st.write("---")
     
-skills_section(info.programming_data, info.spoken_data)
+skills_section(info.programming_data)
 
 #activities
 def activities_section(award_data, ec_data):
@@ -100,11 +96,12 @@ def activities_section(award_data, ec_data):
 
 activities_section(info.award_data, info.ec_data)
 
+#resume section
 def exporting():
     st.header("Download My Resume")
     res_expander = st.expander("Stopford_Carrick_Resume")
     res_expander.write("Let me guess: you're so blown away by this website that you want to hire me immediately? Here's a PDF of my resume:")
-    res_expander.write("https://drive.google.com/file/d/1nwkUKCzIKdk_QWENXnLdsEEr_TTUZZV-/view?usp=sharing")    
+    res_expander.write("https://drive.google.com/file/d/1BSAYd-SfL6huQsfV6vR4qYN4M6k4KgH6/view?usp=sharing")    
     st.write("---")
 
 exporting()
