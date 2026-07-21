@@ -17,8 +17,8 @@ my_linkedin_url = "https://www.linkedin.com/in/carrickstopcs/"
 my_github_url = "https://github.com/CarrickStop"
 my_email_address = "carrickstopford@gmail.com"
 
-
-education_data ={
+#College info
+education_data = {
     'Degree': 'BS in Computer Science',
     'Institution': 'Georgia Institute of Technology',
     'Location': 'Atlanta, GA',
@@ -26,6 +26,7 @@ education_data ={
     'GPA': '3.69/4.0'
 }
 
+#Curriculums
 course_data = {
     "code":["CS 1301", "CS 1331", "MATH 1554"], 
     "names":["Intro to CS", "Intro to OOP", "Computational Linear Algebra"], 
@@ -33,6 +34,7 @@ course_data = {
     "skills":["Python, Streamlit, Pandas", "Java, Object Oriented Programming Intuition, Spring", "Linear Algebra, Algorithmic Intuition"],
     }
 
+#Professional experience, image url required for each. Probably clean up image importing later...
 experience_data = {
     "Orion Defense Solutions LLC remote ⭐" : (["- Engineered a pipeline in Python to perform research and write reports autonomously for defense purposes", "- Architected an intelligent"
      + " document-ingestion pipeline that automatically"
@@ -45,34 +47,31 @@ experience_data = {
      "PC Technician for Computech Systems in Fayetteville, GA" : (["- Built PCs from scratch", "- Upgraded customer PCs for optimized performance"],"PortfolioQuiz/Images/computech.png")
 }
 
+#Projects
 projects_data = {
     "AIO Finances (Collaborative, Ongoing)" : "AIO Finances puts all of your different bank statements from all different accounts and banks into one singular statement. It then dynamically categorizes"
     + " all transactions into budgetary groups and makes intelligent budget plans for you based off your real spending habits."
 }
 
+#Languages including knowledge percentage bars
 programming_data = {
     "Python": 90,
     "Java": 90
 }
 
+#Language icons
 programming_icons = {
     "Python": "🐍",
     "Java": "☕"
 }
-spoken_icons = {
-    "English": "🦅",
-    "German":"🍻"
-}
 
-#CHANGE BELOW
-spoken_data = {
-    "English": "Fluent",
-    "German": "Conversationally Acceptable"
-}
+#Achievements
 award_data = {
-    "Whitewater High School in Fayetteville, GA": (["- Valedictorian out of a 310 class size"],"PortfolioQuiz/Images/speech.jpeg"),
+    "High School Valedictorian": (["- Whitewater High School in Fayetteville, GA Rank 1/310"], "PortfolioQuiz/Images/speech.jpeg"),
 
 }
-ec_data={
-    "Georgia Tech in Atlanta, GA": ["- Georgia Tech Police Department intern, Student Government committee member, classic literature enthusiast"]
+
+#Extracurricular activities
+ec_data = {
+    "Georgia Tech in Atlanta, GA": ["- Georgia Tech Police Department intern", "- Student Government committee member", "- Classic literature enthusiast"]
 }
