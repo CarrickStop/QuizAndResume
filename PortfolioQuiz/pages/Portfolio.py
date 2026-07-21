@@ -102,6 +102,5 @@ def exporting():
     res_expander = st.expander("Stopford_Carrick_Resume")
     res_expander.write("Let me guess: you're so blown away by this website that you want to hire me immediately? Here's a PDF of my resume:")
     res_expander.write("https://drive.google.com/file/d/1BSAYd-SfL6huQsfV6vR4qYN4M6k4KgH6/view?usp=sharing")    
-    st.write("---")
 
 exporting()
