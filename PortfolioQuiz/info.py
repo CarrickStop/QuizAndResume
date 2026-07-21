@@ -34,7 +34,7 @@ course_data = {
     }
 
 experience_data = {
-    "Orion Defense Solutions LLC remote" : (["- Engineered a pipeline in Python to perform research and write reports autonomously for defense purposes", "- Architected an intelligent"
+    "Orion Defense Solutions LLC remote ⭐" : (["- Engineered a pipeline in Python to perform research and write reports autonomously for defense purposes", "- Architected an intelligent"
      + " document-ingestion pipeline that automatically"
      + " extracted and prioritized key engineering requirements from 20+ page government solicitation documents into structured, machine-readable datasets", "- Developed comprehensive unit"
      + " testing frameworks using Pytest and Pandas to structure proposal requirement datasets and automate LLM output evaluation against verified baselines, reducing regression defects by"
