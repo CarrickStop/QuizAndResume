@@ -1,3 +1,7 @@
+"""
+This file is the primary location for all sections of the extended resume.
+"""
+
 import streamlit as st
 import info
 import pandas as pd
