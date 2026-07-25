@@ -36,7 +36,7 @@ Enduring stage IV Wilms tumor at a young age, I lived much of my early life not 
  justify anything within my family and community. I had learned of that power participating in
  sports as a middle schooler: my excuses were sympathetically accepted by those around me.
  But ultimately, I played sports because I sought the satisfication from a good competition,
- and sympathy did not magically grant me victories, only the permission to lose-. It was not
+ and sympathy did not magically grant me victories, only the permission to lose. It was not
  long before I became disillusioned with seeking excuses because justified or not, they never
  changed the outcome. Reality does not bend for a great context. 
  
