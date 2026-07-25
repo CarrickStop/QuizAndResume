@@ -33,16 +33,18 @@ Enduring stage IV Wilms tumor at a young age, I lived much of my early life not 
  or not certain challenges I faced were from irreparable side effects of the illness or just
  regular setbacks that could be overcome like anything else. Mostly these questions were
  physical, but it was made possible for me to use cancer as an all powerful excuse to
- justify really anything within my family and community. I had learned participating in sports
- as a middle schooler that the excuses were sympathetically accepted by those around me. But
- ultimately, I played sports because I sought competition, and sympathy did not magically
- grant me victories. This fact made me realize that what someone does or does not have is all
- that matters because at the end of the day, reality does not bend for a great context. I did
- end up learning from a doctor that endurance sports would not be highly feasible as I was
- simply missing 60% of my lungs, but that did not stop me from finding competition in other
- sports and entirely new fields for a soon to be teenager, like academics where I would
- eventually become a valedictorian. The concluding mindset I have arrived at in life from
- cancer is that it does not really matter how to justify a problem when you are faced with it.
- All I can do is exert the most control that I can over my own life, and if there is a
- roadblock to an issue I am solving, I am always certain that there must be another solution.
+ justify anything within my family and community. I had learned of that power participating in
+ sports as a middle schooler: my excuses were sympathetically accepted by those around me.
+ But ultimately, I played sports because I sought the satisfication from a good competition,
+ and sympathy did not magically grant me victories, only the permission to lose-. It was not
+ long before I became disillusioned with seeking excuses because justified or not, they never
+ changed the outcome. Reality does not bend for a great context. 
+ 
+ I did end up learning from a doctor that endurance sports would in fact not be highly feasible
+ as I was simply missing 60% of my lung capacity, but that did not stop me from finding
+ competition in other sports and entirely new fields for a soon to be teenager, like academics
+ where I would eventually become a valedictorian. The concluding mindset I have arrived at in
+ life from cancer is that it does not really matter how to justify a problem when faced with it
+ because, for any roadblock life confronts me with going forward, I am always certain that there
+ is another route.
 """)
