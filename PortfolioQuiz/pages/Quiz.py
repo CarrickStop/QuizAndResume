@@ -108,7 +108,8 @@ enjoyment()
 
 if st.button("Submit"):
         st.write(f"You scored a {correctTotal}/5.")
-        st.write("Answers:")
+        st.write("All Answers:")
         st.write("\"Crime and Punishment\" is actually Existentialist by genre. It is not apart of the official philosophical/literary movement, but Raskolnikov's navigation through a feeling of moral superioty matches the societally isolated themes of Existentialism.")
         st.write("Frankenstein's Monster tried to make a deal with the doctor to create a lover, and if the doctor abided, the Monster would have been peaceful. The Monster doesn't commit crime until he is abhorred. Representative of scientific achievement, the Monster is smart and impressive yet considered grotesque. Mary Shelley's mother Mary Wollstonecraft was a renonwed feminist leader.")
+        st.write("The French Revolution began in 1789!")
         st.write("Heathcliff's most basic characterization is actually that he does not let anything go, whether it be love, resentment, or pride.")
